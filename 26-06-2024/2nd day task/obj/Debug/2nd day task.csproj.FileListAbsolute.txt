@@ -1,0 +1,7 @@
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\26-06-2024\2nd day task\bin\Debug\2nd day task.exe.config
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\26-06-2024\2nd day task\bin\Debug\2nd day task.exe
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\26-06-2024\2nd day task\bin\Debug\2nd day task.pdb
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\26-06-2024\2nd day task\obj\Debug\2nd day task.csproj.AssemblyReference.cache
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\26-06-2024\2nd day task\obj\Debug\2nd day task.csproj.CoreCompileInputs.cache
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\26-06-2024\2nd day task\obj\Debug\2nd day task.exe
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\26-06-2024\2nd day task\obj\Debug\2nd day task.pdb

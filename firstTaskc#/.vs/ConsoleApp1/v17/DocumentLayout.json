@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\d\\Desktop\\New folder (3)\\CSharp_tasks\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\d\\Desktop\\New folder (4)\\C-sharp-tasks\\firstTaskc#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94957A3C-5369-46D3-9F9C-926F6B124075}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\d\\desktop\\new folder (3)\\csharp_tasks\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94957A3C-5369-46D3-9F9C-926F6B124075}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\d\\desktop\\new folder (4)\\c-sharp-tasks\\firsttaskc#\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94957A3C-5369-46D3-9F9C-926F6B124075}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -24,21 +24,20 @@
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\d\\Desktop\\New folder (3)\\CSharp_tasks\\firstTask\\firstTask\\Program.cs",
-              "RelativeDocumentMoniker": "..\\firstTask\\firstTask\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\New folder (3)\\CSharp_tasks\\firstTask\\firstTask\\Program.cs",
               "ToolTip": "C:\\Users\\d\\Desktop\\New folder (3)\\CSharp_tasks\\firstTask\\firstTask\\Program.cs",
-              "RelativeToolTip": "..\\firstTask\\firstTask\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\New folder (3)\\CSharp_tasks\\firstTask\\firstTask\\Program.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAAAC4AAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T22:19:34.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T22:19:34.036Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\d\\Desktop\\New folder (3)\\CSharp_tasks\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\New folder (4)\\C-sharp-tasks\\firstTaskc#\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\d\\Desktop\\New folder (3)\\CSharp_tasks\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\New folder (4)\\C-sharp-tasks\\firstTaskc#\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
