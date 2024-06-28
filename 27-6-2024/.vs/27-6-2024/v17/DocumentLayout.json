@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\d\\Desktop\\New folder (4)\\C-sharp-tasks\\27-6-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{112C691C-078C-4DEC-871F-C6795AA150D9}|27-6-2024\\27-6-2024.csproj|c:\\users\\d\\desktop\\new folder (4)\\c-sharp-tasks\\27-6-2024\\27-6-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112C691C-078C-4DEC-871F-C6795AA150D9}|27-6-2024\\27-6-2024.csproj|solutionrelative:27-6-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\d\\Desktop\\New folder (4)\\C-sharp-tasks\\27-6-2024\\27-6-2024\\Program.cs",
+              "RelativeDocumentMoniker": "27-6-2024\\Program.cs",
+              "ToolTip": "C:\\Users\\d\\Desktop\\New folder (4)\\C-sharp-tasks\\27-6-2024\\27-6-2024\\Program.cs",
+              "RelativeToolTip": "27-6-2024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:56:55.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

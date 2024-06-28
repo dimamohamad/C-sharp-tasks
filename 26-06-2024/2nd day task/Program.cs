@@ -24,12 +24,19 @@ namespace _2nd_day_task
             //    •	Sample numbers: -7
             //    •	Output: The sign is -
 
-            Console.WriteLine("Please insert an integer number:");
-            int number3;
-            number3=int.Parse(Console.ReadLine());
-              int sign=Math.Sign(number3);
+            //Console.WriteLine("Please insert an integer number:");
+            //int number3;
+            //number3=int.Parse(Console.ReadLine());
+            //  int sign=Math.Sign(number3);
 
-            Console.WriteLine(sign>0?"The sign is + ":sign<0?"The sign is - ":"The number is zero");
+            //Console.WriteLine(sign>0?"The sign is + ":sign<0?"The sign is - ":"The number is zero");
+
+            Console.Write("Enter a number: ");
+            int numse = int.Parse(Console.ReadLine());
+            int signValue = Math.Sign(numse);
+            string[] signs = { "-", "0", "+" };
+            string sign = signs[signValue + 1];
+            Console.WriteLine("The sign is " + sign);
 
             //3.Write a C# conditional statement to sort three numbers ascending. Use console to display the result.
             //    •	Sample numbers: 0, -1, 4
