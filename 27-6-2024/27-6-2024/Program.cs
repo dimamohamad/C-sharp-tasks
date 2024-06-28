@@ -156,7 +156,7 @@ namespace _27_6_2024
                 {
                     Console.Write("{0} ", t++);  
                 }
-                Console.Write("\n");  
+                Console.WriteLine();  
                 space--;  
             }
 
