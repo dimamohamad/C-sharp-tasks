@@ -76,6 +76,7 @@ namespace _27_6_2024
 
 
             int firstNum, secondNum, thirdNum;
+            Console.Write("please enter a three number seperated by comma:");
             string[] numbers = Console.ReadLine().Split(',');
             firstNum=Convert.ToInt32(numbers[0]);   
             secondNum=Convert.ToInt32(numbers[1]);
@@ -160,7 +161,7 @@ namespace _27_6_2024
                 space--;  
             }
 
-
+            Console.ReadLine();
 
 
         }
