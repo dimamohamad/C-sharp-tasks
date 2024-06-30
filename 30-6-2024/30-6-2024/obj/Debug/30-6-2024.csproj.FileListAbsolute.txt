@@ -1,0 +1,14 @@
+C:\Users\d\source\repos\30-6-2024\30-6-2024\obj\Debug\30-6-2024.csproj.AssemblyReference.cache
+C:\Users\d\source\repos\30-6-2024\30-6-2024\obj\Debug\30-6-2024.csproj.CoreCompileInputs.cache
+C:\Users\d\source\repos\30-6-2024\30-6-2024\bin\Debug\30-6-2024.exe.config
+C:\Users\d\source\repos\30-6-2024\30-6-2024\bin\Debug\30-6-2024.exe
+C:\Users\d\source\repos\30-6-2024\30-6-2024\bin\Debug\30-6-2024.pdb
+C:\Users\d\source\repos\30-6-2024\30-6-2024\obj\Debug\30-6-2024.exe
+C:\Users\d\source\repos\30-6-2024\30-6-2024\obj\Debug\30-6-2024.pdb
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\30-6-2024\30-6-2024\bin\Debug\30-6-2024.exe.config
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\30-6-2024\30-6-2024\bin\Debug\30-6-2024.exe
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\30-6-2024\30-6-2024\bin\Debug\30-6-2024.pdb
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\30-6-2024\30-6-2024\obj\Debug\30-6-2024.csproj.AssemblyReference.cache
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\30-6-2024\30-6-2024\obj\Debug\30-6-2024.csproj.CoreCompileInputs.cache
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\30-6-2024\30-6-2024\obj\Debug\30-6-2024.exe
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\30-6-2024\30-6-2024\obj\Debug\30-6-2024.pdb

@@ -1,0 +1,7 @@
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\quiz\quiz\bin\Debug\quiz.exe.config
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\quiz\quiz\bin\Debug\quiz.exe
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\quiz\quiz\bin\Debug\quiz.pdb
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\quiz\quiz\obj\Debug\quiz.csproj.AssemblyReference.cache
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\quiz\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\quiz\quiz\obj\Debug\quiz.exe
+C:\Users\d\Desktop\New folder (4)\C-sharp-tasks\quiz\quiz\obj\Debug\quiz.pdb
