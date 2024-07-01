@@ -11,51 +11,51 @@ namespace _30_6_2024
 {
     public class Class1
     {
-        public int[] Arr = new int[10];
-        public (double sum, double avg) Averagey(int[] arr)
-        {
-            double sum = 0;
-            for (int i = 0; i < arr.Length; i++)
-            {
-                sum += arr[i];
+        //public int[] Arr = new int[10];
+        //public (double sum, double avg) Averagey(int[] arr)
+        //{
+        //    double sum = 0;
+        //    for (int i = 0; i < arr.Length; i++)
+        //    {
+        //        sum += arr[i];
 
-            }
-            double avg = sum / Arr.Length;
-            return (sum, avg);
+        //    }
+        //    double avg = sum / Arr.Length;
+        //    return (sum, avg);
 
-        }
-        //        2-	Write a program in C to display the cube of the number up to given an integer.
-        //•	Test Data:
-        //•	Input number of terms : 5
-        //•	Expected Output :
-        //•	Number is : 1 and cube of the 1 is :1
-        //•	Number is : 2 and cube of the 2 is :8
-        //•	Number is : 3 and cube of the 3 is :27
-        //•	Number is : 4 and cube of the 4 is :64
-        //•	Number is : 5 and cube of the 5 is :125
-        int Num;
-        public void Cube(int num)
-        {
-            this.Num = num;
-            for (int i = 1; i <= num; i++)
-            {
-                Console.WriteLine("The cubic of the {0} is:{1}", i, (i * i * i));
-            }
+        //}
+            //        2-	Write a program in C to display the cube of the number up to given an integer.
+            //•	Test Data:
+            //•	Input number of terms : 5
+            //•	Expected Output :
+            //•	Number is : 1 and cube of the 1 is :1
+            //•	Number is : 2 and cube of the 2 is :8
+            //•	Number is : 3 and cube of the 3 is :27
+            //•	Number is : 4 and cube of the 4 is :64
+            //•	Number is : 5 and cube of the 5 is :125
+        //    int Num;
+        //public void Cube(int num)
+        //{
+        //    this.Num = num;
+        //    for (int i = 1; i <= num; i++)
+        //    {
+        //        Console.WriteLine("The cubic of the {0} is:{1}", i, (i * i * i));
+        //    }
 
-        }
+        //}
 
-        public int GetYears(int[] year)
-        {
-            foreach (int i in year)
-            {
-                if (i > 1950)
-                {
-                    Console.WriteLine(i);
-                }
-            }
-            return 0; ;
+        //public int GetYears(int[] year)
+        //{
+        //    foreach (int i in year)
+        //    {
+        //        if (i > 1950)
+        //        {
+        //            Console.Write("{0}",i);
+        //        }
+        //    }
+        //    return 0; ;
 
-        }
+        //}
 
         //4 - Create a function that takes the age in years and returns the age in days.
         public string Getage(int years)
@@ -82,7 +82,7 @@ namespace _30_6_2024
         public string ID;
         public string Phone;
 
-        public  CheckValidation(int age, string gender, string name, string email, string id, string phone)
+        public CheckValidation(int age, string gender, string name, string email, string id, string phone)
         {
             this.Age = age;
             this.Gender = gender;
@@ -101,7 +101,7 @@ namespace _30_6_2024
             if (gender == "Female" || gender == "Male")
             {
                 Gender = gender;
-                
+
             }
             else
             {
@@ -113,10 +113,10 @@ namespace _30_6_2024
             {
                 EMail = email;
             }
-            else
-            {
-                throw new ArgumentException("Please enter a valid email");
-            }
+            //else
+            //{
+            //    throw new ArgumentException("Please enter a valid email");
+            //}
             ID = id;
 
             var phoneRegex = new Regex(@"^(079|077|078)\d{7}$");
@@ -124,10 +124,10 @@ namespace _30_6_2024
             {
                 Phone = phone;
             }
-            else
-            {
-                throw new ArgumentException("Please enter a valid phone number");
-            }
+            //else
+            //{
+            //    throw new ArgumentException("Please enter a valid phone number");
+            //}
         }
         public void ShowData()
 
