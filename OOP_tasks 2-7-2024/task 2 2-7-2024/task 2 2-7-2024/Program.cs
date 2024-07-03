@@ -84,9 +84,9 @@ namespace task_2_2_7_2024
             dog.MakeSound();
             dog.Sleep();
             dog.Eat();
+            cat.MakeSound();
             cat.Eat();
             cat.Sleep();
-            cat.MakeSound();
 
         }
     }
